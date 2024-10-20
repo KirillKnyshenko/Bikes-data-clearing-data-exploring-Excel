@@ -13,4 +13,4 @@
 
 Создал несолколько сводных таблиц, графиков и dashboard.
 
-![Dashboard picture](Dashboard.jpeg)
+![Dashboard picture](..\Dashboard.jpeg)
