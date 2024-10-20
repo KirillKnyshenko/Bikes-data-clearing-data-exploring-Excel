@@ -1,4 +1,4 @@
-# Bikes-data-clearing-data-exploring-Excel
+# Bikes data (Excel)
  
 В этом проекте я работал с данными **bike_buyers** в Excel. Для очистки и анализа данных. Шаги, которые я выполнил:
 
