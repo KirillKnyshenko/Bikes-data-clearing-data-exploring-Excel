@@ -13,4 +13,4 @@
 
 Создал несолколько сводных таблиц, графиков и dashboard.
 
-![Dashboard picture](E:\MyProjects\Data analyst\Excel\Bikes-data-clearing-data-exploring-Excel\Dashboard.jpeg)
+![Dashboard picture](Dashboard.jpeg)
