@@ -13,4 +13,4 @@
 
 Создал несолколько сводных таблиц, графиков и dashboard.
 
-<img src="Dashboard.jpeg">
+<img src="Dashboard.jpg">
