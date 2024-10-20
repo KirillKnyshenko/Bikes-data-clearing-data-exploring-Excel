@@ -14,3 +14,4 @@
 Создал несолколько сводных таблиц, графиков и dashboard.
 
 <img src="Dashboard.jpg">
+Source: <a>https://www.kaggle.com/datasets/sadiqshah/bike-sales-in-europe?resource=download</a>
